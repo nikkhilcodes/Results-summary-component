@@ -1,0 +1,142 @@
+.right-box{
+  display: inline-block;
+  width: 250px;
+  height: 390px;
+  border-radius: 20px;
+  background-color: rgb(255, 255, 255);
+}
+
+.summary{
+font-family: fontt;
+display: inline-block;
+position: relative;
+left: 35px;
+top: 15px;
+}
+
+.reaction-icon{
+display: inline-block;
+position: relative;
+top: 35px;
+left: 35px;
+}
+
+.reaction-text{
+font-family: fontt;
+color:hsl(0, 100%, 67%) ;
+display: inline-block;
+position: relative;
+left: 40px;
+top: 30px;
+}
+
+
+.reaction-score{
+font-family: fontt;
+color: gray;
+display: inline-block;
+position: relative;
+left: 80.5px;
+top: 30px;
+}
+
+
+.memory-text{
+font-family: fontt;
+color:hsl(39, 100%, 56%);
+display: inline-block;
+position: relative;
+left: 66px;
+top: 30px;
+}
+
+.memory-score{
+font-family: fontt;
+color: gray;
+display: inline-block;
+position: relative;
+left: 107.5px;
+top: 32px;
+}
+
+
+.memory-icon{
+position: relative;
+margin: 0px;
+display: flex;
+position: relative;
+top: 50px;
+left: 36px;
+}
+
+.verbal-text{
+  font-family: fontt;
+  color:hsl(166, 100%, 37%);
+  display: inline-block;
+  position: relative;
+  left: 70px;
+  top: 47px;
+}
+
+.verbal-score{
+  font-family: fontt;
+ color: gray;
+ display: inline-block;
+ position: relative;
+ left: 123px;
+ top: 46px;
+}
+
+.verbal-icon{
+  position: relative;
+  margin: 0px;
+  display: flex;
+  position: relative;
+  top: 68px;
+  left: 38px;
+}
+
+.visual-text{
+  font-family: fontt;
+  color:hsl(234, 85%, 45%);
+  display: inline-block;
+  position: relative;
+  left: 71px;
+  top: 60px;
+}
+
+.visual-score{
+  font-family: fontt;
+ color: gray;
+ display: inline-block;
+ position: relative;
+ left: 125px;
+ top: 60px;
+}
+
+.visual-icon{
+  position: relative;
+  margin: 0px;
+  display: flex;
+  position: relative;
+  top: 81px;
+  left: 38px;
+}
+
+
+.continue-button{
+  display: inline-block;
+  position: relative;
+  top: 90px;
+
+ left: 10px;
+ height: 50px;
+ background-color: hsl(224, 30%, 27%);
+ border: none;
+ color: white;
+ font-family: fontt;
+ border-radius: 50px;
+ padding-left: 90px;
+ padding-right: 90px;
+ cursor: pointer;
+}

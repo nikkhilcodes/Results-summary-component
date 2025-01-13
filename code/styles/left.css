@@ -1,0 +1,81 @@
+@font-face {
+  font-family: fontt;
+  src: url(HankenGrotesk-Bold.ttf);
+}
+
+.left-box{
+  display: inline-block;
+width: 250px;
+border-radius: 20px;
+height: 390px;
+padding-left: 10px;
+padding-right: 20px;
+background: linear-gradient(180deg,hsl(252, 100%, 67%), hsl(241, 81%, 54%));
+}
+
+
+.result{
+  color: rgb(202, 183, 183);
+font-family: fontt;
+  text-align: center;
+  font-weight:500, 700, 800 ;
+}
+
+.first-number{
+font-size: 45px;
+color: white;
+text-align: center;
+margin: 0;
+position: absolute;
+left: 120px;
+top: 100px;
+font-family: fontt;
+font-weight:500, 700, 800 ;
+}
+
+.second-number{
+color: gray;
+display: inline-block;
+text-align: center;
+margin: 0;
+position: relative;
+left: 104px;
+bottom: 60px;
+font-family: fontt;
+opacity: 0.6;
+font-weight:500, 700, 800 ;
+}
+
+.circle{
+background: linear-gradient(hsla(256, 72%, 46%, 1),hsla(241, 72%, 46%, 0));
+border-radius: 50%;
+width: 150px;
+height: 150px;
+display: inline-block;
+position: relative;
+left: 50px;
+}
+
+
+.great-text{
+color: white;
+font-size: 28px;
+display: inline-block;
+font-family: fontt;
+position: relative;
+left: 90px;
+bottom: 40px;
+}
+
+
+.conclusion-text{
+color:rgb(202, 183, 183);
+font-size: 15px;
+width: 210px;
+font-family: fontt;
+text-align: center;
+position: relative;
+bottom: 40px;
+left: 25px;
+
+}
